@@ -1,0 +1,86 @@
+.nev{
+    text-align: center;
+    font-family: Courier New;
+    color: HotPink;
+}
+h1 img {
+    width: 100px;
+   height: 90px;
+}
+img{
+   width: 215px;
+   height: 330px;  
+     margin: auto;
+   display: block;
+
+}
+.n{
+    color: PaleVioletRed;
+}
+h1{
+    color: SkyBlue;
+    text-align: center;
+}
+.ne{
+    width: 20px;
+    height: 20px;
+}
+a{
+    color: CadetBlue;
+   font-size: 25px;
+   text-align: center;
+}
+.neve{
+    background-color:LavenderBlush;
+}
+.nevee{
+    background-color: Lavender;
+}
+.m{
+border: 10px solid lightblue;
+}
+ .d{
+  border: 10px solid Pink;   
+ }
+ .p{
+     color: white;
+     background-color:LightPink ;
+ }
+ footer{
+     background-color:  LightSkyBlue;
+     color:  LightPink;
+     font-size: 23px;
+ }
+ body{
+     background-color: white;
+ }
+ .icons{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    margin: auto;
+   display: block;
+ }
+ nav{
+   margin: 10px 0px;
+   text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: black;
+}
+h2{
+    color: Grey;
+    text-align: center;
+}
+main a{
+    margin: auto;
+   display: block;
+}
+.x{
+    color: LightSlateGrey;
+  font-size:20px;
+  text-align: center;
+}
